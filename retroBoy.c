@@ -28,7 +28,7 @@ int main( int argc, const char* argv[]) {
                 scroll_sprite(0,0,speedDownRight);
                 break;
             }
-            delay(100)
+            delay(100);
     }
     return 0;
 }
